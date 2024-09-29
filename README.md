@@ -1,3 +1,3 @@
 ﻿# django_app
 hello worldddddd
-hi
+helllo  hi
